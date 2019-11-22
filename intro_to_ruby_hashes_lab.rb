@@ -49,7 +49,7 @@ transport = {
       },
       :shortline_railroad =>
       {
-        "mortgage_value" => "$400"
+        "mortgage_value" => "$800"
       }
     }
   }
